@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and developed a comprehensive Financial Dashboard web application that visualizes key financial metrics and trends in real time for users.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project2.png",
+    "description": "Designed and developed a robust Personal Finance web application featuring a digital wallet to manage transactions, track expenses, and set financial goals.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/Project3.png",
+    "description": "Designed and developed an informational website for Kinjawade village featuring services, culture highlights, and essential local resources for residents.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
